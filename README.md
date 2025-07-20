@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1n4GYQm1Ns6s6kzQWd/giphy.gif" width="400" alt="AI Brain GIF"/>
+  <img src="https://media.giphy.com/media/26FPGtD2q6p6HZHig/giphy.gif" width="300" alt="Minimal Coding GIF"/>
 </p>
 
 
