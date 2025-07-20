@@ -18,3 +18,13 @@ My current focus areas:
 ---
 
 📌 *Let’s connect and collaborate on cool projects!*
+
+---
+
+## 📊 GitHub Stats
+![AshtamiBiju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshtamiBiju&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
