@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashtami Biju!
+# 👋 Hi, I'm Ashtami B!
 
 🎓 BCA Student @ Amrita Vishwa Vidyapeetham  
 🌟 GirlScript Summer of Code 2025 Contributor | 🤖 AI/ML Enthusiast | 🧠 Open Source Learner  
