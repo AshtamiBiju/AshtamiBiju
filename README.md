@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Welcome Gif"/>
+  <img src="https://github.com/AshtamiBiju/AshtamiBiju/blob/main/banner.png" alt="banner" />
 </p>
 
 
