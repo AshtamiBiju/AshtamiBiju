@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashtami Biju!
 
-<!--
-**AshtamiBiju/AshtamiBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student @ Amrita Vishwa Vidyapeetham  
+🌟 GirlScript Summer of Code 2025 Contributor | 🤖 AI/ML Enthusiast | 🧠 Open Source Learner  
+🔭 Currently exploring: Git, GitHub, Python Libraries, and Open Source collaboration  
+📚 Learning Seaborn, Scikit-learn, Pandas, and more!  
+💬 Ask me about open source, Python, or learning AI from scratch!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Journey So Far
+I'm passionate about using code to solve real-world problems and growing as a developer through open source contribution and continuous learning.  
+My current focus areas:
+- Contributing meaningfully to GSSoC 2025
+- Building AI/ML projects from the ground up
+- Mastering Git and GitHub for collaborative development
+
+---
+
+📌 *Let’s connect and collaborate on cool projects!*
