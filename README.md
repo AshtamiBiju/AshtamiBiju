@@ -42,6 +42,13 @@ My current focus areas:
 
 ---
 
+<h2>🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshtamiBiju&theme=gruvbox&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 ![AshtamiBiju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=tokyonight)
 
