@@ -43,7 +43,7 @@ My current focus areas:
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AshtamiBiju&theme=monokai&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
