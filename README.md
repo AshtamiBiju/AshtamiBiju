@@ -33,7 +33,7 @@ My current focus areas:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshtamiBiju)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
