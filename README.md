@@ -39,7 +39,7 @@ I'm passionate about using code to solve real-world problems and growing as a de
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshtamiBiju&theme=onedark&no-frame=true)](https://github.com/AshtamiBiju)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshtamiBiju&theme=onedark&no-frame=true&column=7)](https://github.com/AshtamiBiju)
 
 ---
 
