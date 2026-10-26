@@ -1,117 +1,136 @@
-👋 Hi, I'm Ashtami B!
 
-🎓 M.Sc. Computer Science (Data Science) Student @ Cochin University of Science and Technology (CUSAT)  
-🤖 Aspiring Robotics Engineer  
-💻 Backend Developer | AI • Computer Vision • Embedded Systems Enthusiast
+<!--
+    ASHTAMI BIJU | WOW PROFILE
+    Replace any placeholder links with your actual URLs.
+-->
 
-> *Building intelligent systems that connect software with the physical world.*
+<div align="center">
 
----
+```text
+ █████╗ ███████╗██╗  ██╗████████╗ █████╗ ███╗   ███╗██╗
+██╔══██╗██╔════╝██║  ██║╚══██╔══╝██╔══██╗████╗ ████║██║
+███████║███████╗███████║   ██║   ███████║██╔████╔██║██║
+██╔══██║╚════██║██╔══██║   ██║   ██╔══██║██║╚██╔╝██║██║
+██║  ██║███████║██║  ██║   ██║   ██║  ██║██║ ╚═╝ ██║██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
+```
 
-# 🚀 About Me
+### `DATA SCIENCE × SYSTEMS × SOFTWARE`
 
-I'm an M.Sc. Computer Science (Data Science) student at CUSAT with a long-term goal of becoming a Robotics Engineer.
+*Curious mind. Experimental builder. Lifelong learner.*
 
-I'm passionate about developing intelligent systems by combining software engineering, artificial intelligence, computer vision, and embedded systems. I enjoy learning through hands-on projects, hackathons, open-source contributions, and continuous experimentation.
+[![GitHub](https://img.shields.io/badge/GitHub-AshtamiBiju-181717?style=for-the-badge&logo=github)](https://github.com/AshtamiBiju)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-Currently, I'm strengthening my backend development and AI foundations while gradually expanding into robotics and hardware development.
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Robotics & Intelligent Systems
-- 🧠 Artificial Intelligence & Machine Learning
-- 💻 Backend Development with Python
-- 🌐 REST API Development
-- 📷 Computer Vision
-- 🔧 Raspberry Pi & Embedded Systems
-- 🛠️ Open Source Contributions
+</div>
 
 ---
 
-# 🌱 Currently Learning
+## `whoami`
 
-- Python
-- C++
-- FastAPI
-- PostgreSQL
-- Git & GitHub
-- Machine Learning
-- Deep Learning
-- Raspberry Pi
+```bash
+$ whoami
+Ashtami Biju
 
----
+$ cat about.txt
+M.Sc. Computer Science | Data Science @ CUSAT
+Exploring the intersection of intelligent software
+and low-level systems.
 
-# 💡 Areas of Interest
+$ cat current_interests.txt
+> Data Science & Machine Learning
+> Embedded Systems & Robotics
+> Computer Vision
+> Linux, C/C++ & Python
+> Building things that actually work
 
-- 🤖 Robotics
-- 🚗 Autonomous Systems
-- 🧠 Artificial Intelligence
-- 👁️ Computer Vision
-- ⚙️ Embedded Systems
-- 🌐 Backend Engineering
-- 🔓 Open Source
+$ echo $MINDSET
+Learn -> Build -> Break -> Debug -> Repeat
+```
 
----
+## `./developer_profile`
 
-# 🛠️ Tech Stack
+```text
+       .-""""-.
+      /  .--.  \
+     |  /    \  |
+     |  \____/  |
+      \        /
+       '------'
+          ||
+      ____||____
+     /  _    _  \
+    |  |_|  |_|  |
+    |     __     |
+     \__________/
+        / || \
+       /__||__\
+```
 
-### Languages
+> Currently turning curiosity into code, one project at a time.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+## `tech_stack --list`
 
-### Backend & Databases
+| Domain | Technologies |
+|---|---|
+| Languages | Python, C, C++ |
+| Data Science | NumPy, Pandas, Matplotlib |
+| Computer Vision | OpenCV, MediaPipe |
+| Embedded | Arduino, Embedded C/C++ |
+| Tools | Git, GitHub, VS Code |
+| Environment | Linux, Ubuntu, Bash |
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## `projects --featured`
 
-### Data Science & AI
+### 01. BioSentry / ErgoVision
+**AI-powered desk wellness assistant**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- Computer vision for posture monitoring and eye-fatigue indicators.
+- Real-time feedback and desktop wellness reminders.
+- Python, OpenCV, MediaPipe.
 
-### Tools
+### 02. Embedded Systems Lab
+**Learning by building with hardware**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Arduino-based traffic light controller.
+- LCD interfacing and basic electronics experiments.
+- C/C++, Arduino, digital electronics.
 
----
+### 03. Python & Data Science
+**Small experiments, growing skills**
 
-# 🚀 Featured Projects
+- Python programming and problem-solving.
+- Data analysis and visualization practice.
+- Exploring machine learning applications.
 
-### 🤖 EmotionCube
-An AI-powered robotics project that combines computer vision, emotion recognition, and Raspberry Pi to create an interactive emotional companion.
+> Project links will be added as the repositories become available.
 
-### 📊 Titanic Survival Prediction
-Machine Learning project using Python and Scikit-learn for predictive analysis.
+## `git_stats --overview`
 
-### 🌐 Backend Development Projects
-REST APIs and backend applications built with Python.
+<div align="center">
 
-> More exciting robotics and AI projects are on the way.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshtamiBiju&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-# 📈 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=AshtamiBiju&theme=chartreuse-dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshtamiBiju&theme=tokyonight&hide_border=true)](https://github.com/AshtamiBiju)
+</div>
 
----
+## `connect --with-me`
 
-# 🌐 Connect with Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashtami-b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github)](https://github.com/AshtamiBiju)
 
-📧 **Email:** ashtamibijuviji@gmail.com
+**Building at the intersection of data, code, and hardware.**
 
----
+```text
+[ SYSTEM STATUS: LEARNING ]
+[ CURIOSITY:     UNBOUNDED ]
+[ PROJECTS:      IN PROGRESS ]
+[ NEXT GOAL:     BUILD SOMETHING USEFUL ]
+```
 
-⭐ *Always learning. Always building. One project closer to becoming a Robotics Engineer.*
+</div>
