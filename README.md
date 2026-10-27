@@ -1,136 +1,68 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju hero visual" />
+</p>
 
-<!--
-    ASHTAMI BIJU | WOW PROFILE
-    Replace any placeholder links with your actual URLs.
--->
+<p align="center"><b>Ashtami B</b> · Frontend or full-stack engineer<br/><sub>BCA student | Learning AI/ML | Building GitHub projects | Aspiring open source contributor</sub></p>
 
-<div align="center">
+<p align="center"><a href="https://github.com/ashtamibiju">GitHub</a></p>
 
-```text
- █████╗ ███████╗██╗  ██╗████████╗ █████╗ ███╗   ███╗██╗
-██╔══██╗██╔════╝██║  ██║╚══██╔══╝██╔══██╗████╗ ████║██║
-███████║███████╗███████║   ██║   ███████║██╔████╔██║██║
-██╔══██║╚════██║██╔══██║   ██║   ██╔══██║██║╚██╔╝██║██║
-██║  ██║███████║██║  ██║   ██║   ██║  ██║██║ ╚═╝ ██║██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
-```
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-### `DATA SCIENCE × SYSTEMS × SOFTWARE`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju projects visual" />
+</p>
 
-*Curious mind. Experimental builder. Lifelong learner.*
+- [Blink](https://github.com/AshtamiBiju/Blink) · ★ 1
+- [PulsePass](https://github.com/AshtamiBiju/PulsePass) · ★ 1
+- [Live-Classroom-AI-Feedback-System](https://github.com/AshtamiBiju/Live-Classroom-AI-Feedback-System) · ★ 1
+- [Arduino-Mini-Projects](https://github.com/AshtamiBiju/Arduino-Mini-Projects) · ★ 0 — A collection of Arduino mini-projects built while learning embedded systems, electronics, and hardwa
+- [cacao](https://github.com/AshtamiBiju/cacao) · ★ 0 — A search engine that may be right, wrong, or completely unrelated
+- [Resume](https://github.com/AshtamiBiju/Resume) · ★ 0
 
-[![GitHub](https://img.shields.io/badge/GitHub-AshtamiBiju-181717?style=for-the-badge&logo=github)](https://github.com/AshtamiBiju)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+</details>
 
-</div>
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju stack visual" />
+</p>
 
-## `whoami`
+</details>
 
-```bash
-$ whoami
-Ashtami Biju
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-$ cat about.txt
-M.Sc. Computer Science | Data Science @ CUSAT
-Exploring the intersection of intelligent software
-and low-level systems.
+<b>13</b> public repositories, <b>3</b> stars, <b>59</b> contributions in the last year, a longest streak of <b>2</b> days and <b>5</b> followers.
 
-$ cat current_interests.txt
-> Data Science & Machine Learning
-> Embedded Systems & Robotics
-> Computer Vision
-> Linux, C/C++ & Python
-> Building things that actually work
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju stats visual" />
+</p>
 
-$ echo $MINDSET
-Learn -> Build -> Break -> Debug -> Repeat
-```
+</details>
 
-## `./developer_profile`
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-```text
-       .-""""-.
-      /  .--.  \
-     |  /    \  |
-     |  \____/  |
-      \        /
-       '------'
-          ||
-      ____||____
-     /  _    _  \
-    |  |_|  |_|  |
-    |     __     |
-     \__________/
-        / || \
-       /__||__\
-```
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ashtamibiju&theme=neon" alt="ashtamibiju contribution activity" />
+</p>
 
-> Currently turning curiosity into code, one project at a time.
+</details>
 
-## `tech_stack --list`
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-| Domain | Technologies |
-|---|---|
-| Languages | Python, C, C++ |
-| Data Science | NumPy, Pandas, Matplotlib |
-| Computer Vision | OpenCV, MediaPipe |
-| Embedded | Arduino, Embedded C/C++ |
-| Tools | Git, GitHub, VS Code |
-| Environment | Linux, Ubuntu, Bash |
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju social visual" />
+</p>
 
-## `projects --featured`
+</details>
 
-### 01. BioSentry / ErgoVision
-**AI-powered desk wellness assistant**
-
-- Computer vision for posture monitoring and eye-fatigue indicators.
-- Real-time feedback and desktop wellness reminders.
-- Python, OpenCV, MediaPipe.
-
-### 02. Embedded Systems Lab
-**Learning by building with hardware**
-
-- Arduino-based traffic light controller.
-- LCD interfacing and basic electronics experiments.
-- C/C++, Arduino, digital electronics.
-
-### 03. Python & Data Science
-**Small experiments, growing skills**
-
-- Python programming and problem-solving.
-- Data analysis and visualization practice.
-- Exploring machine learning applications.
-
-> Project links will be added as the repositories become available.
-
-## `git_stats --overview`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshtamiBiju&layout=compact&theme=chartreuse-dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AshtamiBiju&theme=chartreuse-dark&hide_border=true)
-
-</div>
-
-## `connect --with-me`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github)](https://github.com/AshtamiBiju)
-
-**Building at the intersection of data, code, and hardware.**
-
-```text
-[ SYSTEM STATUS: LEARNING ]
-[ CURIOSITY:     UNBOUNDED ]
-[ PROJECTS:      IN PROGRESS ]
-[ NEXT GOAL:     BUILD SOMETHING USEFUL ]
-```
-
-</div>
+<p align="center"><sub>Ashtami B · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
