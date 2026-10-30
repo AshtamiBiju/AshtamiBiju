@@ -15,7 +15,7 @@
 </p>
 
 - [Blink](https://github.com/AshtamiBiju/Blink) · ★ 1
-- [PulsePass](https://github.com/AshtamiBiju/PulsePass) · ★ 1
+- [GymGuard](https://github.com/AshtamiBiju/PulsePass) · ★ 1
 - [Live-Classroom-AI-Feedback-System](https://github.com/AshtamiBiju/Live-Classroom-AI-Feedback-System) · ★ 1
 - [Arduino-Mini-Projects](https://github.com/AshtamiBiju/Arduino-Mini-Projects) · ★ 0 — A collection of Arduino mini-projects built while learning embedded systems, electronics, and hardwa
 - [cacao](https://github.com/AshtamiBiju/cacao) · ★ 0 — A search engine that may be right, wrong, or completely unrelated
