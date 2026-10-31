@@ -1,68 +1,56 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju hero visual" />
-</p>
-
-<p align="center"><b>Ashtami B</b> · Frontend or full-stack engineer<br/><sub>BCA student | Learning AI/ML | Building GitHub projects | Aspiring open source contributor</sub></p>
-
-<p align="center"><a href="https://github.com/ashtamibiju">GitHub</a></p>
-
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+<h1 align="center">Hi, I'm Ashtami 👋</h1>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju projects visual" />
+  MSc Computer Science (Data Science) @ CUSAT · Kochi, India<br/>
+  I build things where <b>software meets hardware</b>: robotics, embedded systems and AI/ML.
 </p>
-
-- [Blink](https://github.com/AshtamiBiju/Blink) · ★ 1
-- [GymGuard](https://github.com/AshtamiBiju/PulsePass) · ★ 1
-- [Live-Classroom-AI-Feedback-System](https://github.com/AshtamiBiju/Live-Classroom-AI-Feedback-System) · ★ 1
-- [Arduino-Mini-Projects](https://github.com/AshtamiBiju/Arduino-Mini-Projects) · ★ 0 — A collection of Arduino mini-projects built while learning embedded systems, electronics, and hardwa
-- [cacao](https://github.com/AshtamiBiju/cacao) · ★ 0 — A search engine that may be right, wrong, or completely unrelated
-- [Resume](https://github.com/AshtamiBiju/Resume) · ★ 0
-
-</details>
-
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju stack visual" />
+  <a href="https://github.com/AshtamiBiju"><img src="https://img.shields.io/github/followers/AshtamiBiju?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AshtamiBiju&label=Profile+views&style=for-the-badge&color=2ea043" alt="profile views"/>
 </p>
 
-</details>
+---
 
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
+## 🔭 What I'm up to
 
-<b>13</b> public repositories, <b>3</b> stars, <b>59</b> contributions in the last year, a longest streak of <b>2</b> days and <b>5</b> followers.
+- 🎓 Pursuing an MSc in Computer Science (Data Science) at CUSAT, after completing my BCA
+- 🤖 Building a Raspberry Pi 5 companion robot
+- ⚙️ Working through a 12-month embedded systems roadmap (Arduino → STM32 → RTOS)
+- 🛠️ Part of the maker community at **TinkerSpace Kochi**
+- 🏆 Taking part in hackathons and working towards open source contributions
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju stats visual" />
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| [**Live Classroom AI Feedback System**](https://github.com/AshtamiBiju/Live-Classroom-AI-Feedback-System) | _One line on what it does and the tech used_ |
+| [**GymGuard**](https://github.com/AshtamiBiju/PulsePass) | _One line on what it does and the tech used_ |
+| [**Blink**](https://github.com/AshtamiBiju/Blink) | _One line on what it does and the tech used_ |
+| [**Arduino Mini Projects**](https://github.com/AshtamiBiju/Arduino-Mini-Projects) | A collection of small Arduino builds made while learning embedded systems and electronics |
+| [**cacao**](https://github.com/AshtamiBiju/cacao) | A search engine that may be right, wrong, or completely unrelated |
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,raspberrypi,pytorch,tensorflow,git,github,linux,vscode&perline=11" alt="tech stack"/>
 </p>
 
-</details>
+**Focus areas:** Embedded Systems · Robotics · Machine Learning · Computer Vision · IoT
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+## 📈 GitHub stats
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ashtamibiju&theme=neon" alt="ashtamibiju contribution activity" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtamiBiju&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 </p>
 
-</details>
+## 🤝 Let's connect
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ashtamibiju&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214014655%3Fu%3D23c4e2d3ab91d7e6e0d01024d966b9131f8e5b42%26v%3D4" alt="ashtamibiju social visual" />
+<p>
+  <a href="https://github.com/AshtamiBiju"><img src="https://img.shields.io/badge/GitHub-AshtamiBiju-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-</details>
-
-<p align="center"><sub>Ashtami B · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><i>Always happy to talk about robotics, embedded systems or hackathon ideas.</i></p>
