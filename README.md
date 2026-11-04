@@ -23,7 +23,7 @@ MSc Computer Science (Data Science) student at CUSAT with a BCA background. I wo
 | Degree | Institution | Period |
 |:--|:--|:--|
 | 💠 **MSc Computer Science (Data Science)** | Cochin University of Science and Technology (CUSAT) | 2026 – present |
-| 🌸 **Bachelor of Computer Applications (BCA)** | Amrita Vishwa Vidyapeetham | YEAR – YEAR |
+| 🌸 **Bachelor of Computer Applications (BCA)** | Amrita Vishwa Vidyapeetham | 2023 - 2026 |
 
 <br/>
 
