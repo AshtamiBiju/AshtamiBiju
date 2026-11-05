@@ -24,24 +24,31 @@
 
 ## `01`  A little about me
 
-```python
-class Developer:
-    name = "Ashtami Biju"
-    education = "MSc Computer Science"
-    specialization = "Data Science"
+<div align="center">
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Embedded Systems",
-        "Robotics"
-    ]
+```text
+       /\_/\
+      ( o.o )       hello, internet!
+       > ^ <
 
-    motto = "Learn it. Build it. Break it. Repeat."
+   ┌──────────────────────────────────┐
+   │                                  │
+   │  NAME       Ashtami Biju         │
+   │  STUDY      MSc Computer Science │
+   │  FOCUS      Data Science         │
+   │                                  │
+   │  INTERESTS  AI · ML · Robotics   │
+   │             Computer Vision      │
+   │             Embedded Systems     │
+   │                                  │
+   │  STATUS     Always learning...   │
+   │                                  │
+   └──────────────────────────────────┘
 ```
 
-I'm a Computer Science postgraduate student fascinated by the way software, data, and hardware come together.
+</div>
+
+I'm a Computer Science postgraduate student fascinated by the intersection of software, data, and hardware.
 
 I enjoy exploring new technologies, experimenting with ideas, and building projects that solve interesting problems.
 
@@ -76,6 +83,7 @@ Currently navigating the wonderful rabbit hole of computer science. There is app
 ## `03`  Things I've built
 
 ### ♡ Blink
+
 **AI-powered Desktop Wellness Companion**
 
 A desktop application that encourages healthier computer habits using computer vision and local AI.
@@ -90,6 +98,7 @@ A desktop application that encourages healthier computer habits using computer v
 [Explore Blink →](https://github.com/AshtamiBiju/Blink)
 
 ### ♡ TextMorph
+
 **AI-powered Text Transformation & Document Intelligence**
 
 An NLP project exploring text transformation, semantic understanding, and document intelligence.
@@ -104,6 +113,7 @@ An NLP project exploring text transformation, semantic understanding, and docume
 [Explore TextMorph →](https://github.com/AshtamiBiju/Text_Morph)
 
 ### ♡ GymGuard
+
 **Smart Gym Access & Monitoring System**
 
 A hardware-software project exploring automated access control and smart gym management.
@@ -118,6 +128,7 @@ A hardware-software project exploring automated access control and smart gym man
 [Explore GymGuard →](https://github.com/AshtamiBiju/GymGuard)
 
 ### ♡ Pro-Bot
+
 **Live Classroom AI Feedback System**
 
 A collaborative project exploring AI-assisted classroom feedback and insights.
@@ -167,13 +178,13 @@ A collaborative project exploring AI-assisted classroom feedback and insights.
 <div align="center">
 
 ```text
-        /\_/\
-       ( •.• )     Thanks for stopping by!
-        > ♡ <
+       /\_/\
+      ( •.• )     Thanks for stopping by!
+       > ♡ <
 
    keep learning · keep creating · keep exploring
 
-        01001000 01000001 01010000 01010000 01011001
+       01001000 01000001 01010000 01010000 01011001
 ```
 
 *Made with curiosity, coffee, and an unreasonable number of tabs.*
