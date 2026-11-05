@@ -1,85 +1,185 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Ashtami%20B&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%2FML&descSize=20&descAlignY=60" width="100%" alt="banner"/>
+ <!--
+  ASHTAMI BIJU | GITHUB PROFILE README
+  Replace any optional sections with your verified information.
+-->
 
 <div align="center">
 
-**MSc Computer Science (Data Science) · CUSAT · Kochi, India 🌸**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:581C87,75:BE185D,100:0891B2&height=250&section=header&text=ASHTAMI%20BIJU&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Building%20at%20the%20intersection%20of%20AI%2C%20Code%20%26%20Hardware&descSize=15&descAlignY=59&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/AshtamiBiju"><img src="https://img.shields.io/badge/GitHub-AshtamiBiju-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ashtami-b-3a9042323/"><img src="https://img.shields.io/badge/LinkedIn-Ashtami_B-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ashtamibijuviji@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=MSc+Computer+Science+%40+CUSAT;AI+%2F+ML+Enthusiast;Exploring+Embedded+Systems+%26+Robotics;Turning+Ideas+Into+Working+Projects;Curious+Mind.+Constant+Experimentation." alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/AshtamiBiju">
+<img src="https://img.shields.io/badge/GitHub-AshtamiBiju-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ashtami-b-3a9042323/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:ashtamibijuviji@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AshtamiBiju&style=flat-square&color=8B5CF6&label=PROFILE+VISITORS"/>
 
 </div>
 
-<br/>
+---
 
-## 💜 Summary
+## `$ whoami`
 
-MSc Computer Science (Data Science) student at CUSAT with a BCA background. I work across software and hardware, building projects that combine machine learning with embedded systems and robotics. I am looking for internships and open source projects in embedded systems, robotics and applied ML.
+```python
+class Ashtami:
+    def __init__(self):
+        self.education = "MSc CS (Data Science) @ CUSAT"
+        self.location = "Kochi, India"
 
-<br/>
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Embedded Systems",
+            "Robotics",
+            "Computer Vision"
+        ]
 
-## 🎓 Education
+        self.current_mission = (
+            "Learning how software interacts "
+            "with the physical world."
+        )
 
-| Degree | Institution | Period |
-|:--|:--|:--|
-| 💠 **MSc Computer Science (Data Science)** | Cochin University of Science and Technology (CUSAT) | 2026 – present |
-| 🌸 **Bachelor of Computer Applications (BCA)** | Amrita Vishwa Vidyapeetham | 2023 - 2026 |
+    def motto(self):
+        return "Build. Break. Understand. Rebuild."
+```
 
-<br/>
+I'm a Computer Science student interested in building things that go beyond the screen.
 
-## 🛠️ Technical skills
+My work spans AI-powered applications, computer vision, NLP and hardware-software integration. I'm currently exploring the world of embedded systems and robotics while strengthening my foundations in computer science.
+
+I enjoy understanding how things work, experimenting with unfamiliar technologies and turning ideas into actual implementations.
+
+**Currently exploring:** Embedded C · Linux · C++ · Microcontrollers · Robotics
+
+---
+
+## ⚡ Tech arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-EC4899?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-06B6D4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-F59E0B?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-EC4899?style=for-the-badge&logo=raspberrypi&logoColor=white)
+### Programming languages
 
-![PyTorch](https://img.shields.io/badge/PyTorch-8B5CF6?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-06B6D4?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-EC4899?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+
+### AI, ML & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi,docker&theme=dark" />
+
+### Web & Databases
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,mysql&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-## 🚀 Projects
-
-### 🌟 Live Classroom AI Feedback System
-DESCRIBE IN ONE OR TWO LINES WHAT IT DOES AND HOW.
-
-![](https://img.shields.io/badge/Python-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/TECH_USED-EC4899?style=flat-square) [![Repo](https://img.shields.io/badge/View_repository-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/AshtamiBiju/Live-Classroom-AI-Feedback-System)
-
-### 💪 GymGuard
-DESCRIBE IN ONE OR TWO LINES WHAT IT DOES AND HOW.
-
-![](https://img.shields.io/badge/TECH_USED-8B5CF6?style=flat-square) [![Repo](https://img.shields.io/badge/View_repository-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/AshtamiBiju/PulsePass)
-
-### 👁️ Blink
-DESCRIBE IN ONE OR TWO LINES WHAT IT DOES AND HOW.
-
-![](https://img.shields.io/badge/TECH_USED-EC4899?style=flat-square) [![Repo](https://img.shields.io/badge/View_repository-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/AshtamiBiju/Blink)
-
-<br/>
-
-## 📊 GitHub activity
+## 🚀 Featured projects
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AshtamiBiju&theme=dark&hide_border=true&background=0d1117&ring=EC4899&fire=F59E0B&currStreakLabel=EC4899&currStreakNum=ffffff&sideLabels=8B5CF6&sideNums=ffffff&dates=9ca3af" alt="streak"/>
+<a href="https://github.com/AshtamiBiju/Blink">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshtamiBiju&repo=Blink&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/AshtamiBiju/Text_Morph">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshtamiBiju&repo=Text_Morph&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AshtamiBiju/GymGuard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshtamiBiju&repo=GymGuard&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/AshtamiBiju/Pro-Bot--Live-Classroom-AI-Feedback-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AshtamiBiju&repo=Pro-Bot--Live-Classroom-AI-Feedback-System&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
+### A little about what I'm building
+
+| Project | What it does |
+|---|---|
+| 👁️ **Blink** | Desktop wellness companion combining computer vision, posture monitoring, blink tracking and a local AI coach. |
+| 🧠 **TextMorph** | NLP-powered text and document intelligence platform with summarisation, paraphrasing and semantic analysis. |
+| 💪 **GymGuard** | Smart gym access system integrating RFID, ESP32, backend services and a web dashboard. |
+| 🎓 **Pro-Bot** | AI-powered classroom feedback system using computer vision and engagement analysis. |
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshtamiBiju&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 <br/>
 
-## 📬 Contact
+<img src="https://streak-stats.demolab.com?user=AshtamiBiju&theme=tokyonight&hide_border=true&background=0D1117&ring=BC8CFF&fire=F778BA&currStreakLabel=BC8CFF" width="90%"/>
 
-I'm open to internships, collaborations and open source work.
+</div>
 
-**Email:** ashtamibijuviji@gmail.com · **LinkedIn:** [ashtami-b](https://www.linkedin.com/in/ashtami-b-3a9042323/)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=110&section=footer" width="100%" alt="footer"/>
+## 📈 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshtamiBiju&bg_color=0D1117&color=C084FC&line=EC4899&point=67E8F9&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 The contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AshtamiBiju/AshtamiBiju/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently exploring
+
+```text
+[01] C and C++ for embedded systems
+[02] Linux internals and system programming
+[03] Microcontrollers and low-level programming
+[04] Robotics and hardware-software integration
+[05] AI/ML applications in the real world
+```
+
+---
+
+## 🌌 Beyond the code
+
+- 🔬 Interested in understanding systems from the hardware level up.
+- 🧩 Enjoy solving problems and experimenting with new technologies.
+- 🌱 Learning through projects, hackathons and open-source contributions.
+- 🤝 Open to meaningful collaborations and learning opportunities.
+
+---
+
+<div align="center">
+
+### "The best way to understand a system is to build one."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,40:BE185D,75:581C87,100:0D1117&height=130&section=footer" width="100%"/>
+
+</div>
