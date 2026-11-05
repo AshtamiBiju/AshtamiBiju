@@ -1,210 +1,181 @@
-
-<!-- ================= HEADER ================= -->
+```text
+       /\_/\
+      ( o.o )     HELLO, WORLD!
+       > ^ <
+```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12002F,50:5B2A86,100:00C9D8&text=Ashtami%20Biju&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Building%20things%20at%20the%20intersection%20of%20code%20and%20curiosity&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
+# `Ashtami Biju`
 
-<br/>
+**Computer Science Student · Data Science · Curious Builder**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+%7C+Data+Science;Exploring+AI+%26+Machine+Learning;Learning+Embedded+Systems+%26+Robotics;Turning+curiosity+into+working+projects" alt="Typing SVG" />
-</a>
+`01000001 01110011 01101000 01110100 01100001 01101101 01101001`
 
-<br/>
+*Turning curiosity into code, one experiment at a time.*
 
-<a href="https://www.linkedin.com/in/ashtami-b-3a9042323/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ashtamibijuviji@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/AshtamiBiju">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B9A7E8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashtami-b-3a9042323/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-A8C7D8?style=flat-square&logo=gmail&logoColor=white)](mailto:ashtamibijuviji@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-CEC4E8?style=flat-square&logo=github&logoColor=333333)](https://github.com/AshtamiBiju)
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+## `01`  A little about me
 
-## `$ whoami`
+```python
+class Developer:
+    name = "Ashtami Biju"
+    education = "MSc Computer Science"
+    specialization = "Data Science"
 
-```yaml
-name: Ashtami Biju
-education:
-  degree: MSc Computer Science
-  specialization: Data Science
-  university: Cochin University of Science and Technology
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Embedded Systems",
+        "Robotics"
+    ]
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Embedded Systems
-  - Robotics
-
-currently_exploring:
-  - C / C++
-  - Linux and low-level programming
-  - Embedded systems fundamentals
-  - AI-powered applications
-
-philosophy: "Learn by building. Understand by breaking things."
+    motto = "Learn it. Build it. Break it. Repeat."
 ```
 
-I'm a Computer Science postgraduate student interested in understanding how technology works beneath the surface, from intelligent software to hardware-level systems.
+I'm a Computer Science postgraduate student fascinated by the way software, data, and hardware come together.
 
-I enjoy experimenting with ideas, building practical projects, and learning through hands-on problem-solving.
+I enjoy exploring new technologies, experimenting with ideas, and building projects that solve interesting problems.
 
-Currently exploring the intersection of **AI, software engineering, embedded systems, and robotics.**
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## `$ tech --stack`
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino,raspberrypi&theme=dark" />
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-6A5ACD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20Internals-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Computer%20Architecture-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/RTOS-00A896?style=flat-square" />
-</p>
+Currently navigating the wonderful rabbit hole of computer science. There is apparently no bottom.
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## `02`  My little toolbox
 
-## `$ ls ./featured-projects`
+**Languages**
 
-### 01. Blink
+![Python](https://img.shields.io/badge/Python-B9C7F5?style=flat-square&logo=python&logoColor=30364D)
+![C](https://img.shields.io/badge/C-B9C7F5?style=flat-square&logo=c&logoColor=30364D)
+![C++](https://img.shields.io/badge/C++-B9C7F5?style=flat-square&logo=cplusplus&logoColor=30364D)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-DCC5F5?style=flat-square&logo=pytorch&logoColor=503B69)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DCC5F5?style=flat-square&logo=tensorflow&logoColor=503B69)
+![OpenCV](https://img.shields.io/badge/OpenCV-DCC5F5?style=flat-square&logo=opencv&logoColor=503B69)
+
+**Tools & Hardware**
+
+![Git](https://img.shields.io/badge/Git-C4E4E8?style=flat-square&logo=git&logoColor=345B62)
+![GitHub](https://img.shields.io/badge/GitHub-C4E4E8?style=flat-square&logo=github&logoColor=345B62)
+![Linux](https://img.shields.io/badge/Linux-C4E4E8?style=flat-square&logo=linux&logoColor=345B62)
+![Arduino](https://img.shields.io/badge/Arduino-C4E4E8?style=flat-square&logo=arduino&logoColor=345B62)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C4E4E8?style=flat-square&logo=raspberrypi&logoColor=345B62)
+
+---
+
+## `03`  Things I've built
+
+### ♡ Blink
 **AI-powered Desktop Wellness Companion**
 
-A desktop wellness application designed to encourage healthier computer usage through computer vision and local AI.
+A desktop application that encourages healthier computer habits using computer vision and local AI.
 
-- Monitors posture using webcam-based analysis.
-- Tracks blink rate and eye fatigue.
-- Provides hydration reminders.
-- Includes a local AI wellness assistant.
-- Designed with privacy in mind, processing webcam frames locally.
+- Webcam-based posture monitoring.
+- Blink-rate tracking and eye fatigue awareness.
+- Hydration reminders.
+- Local AI wellness assistant.
 
-**Tech:** Python · OpenCV · MediaPipe · Ollama · Gemma
+`Python` `OpenCV` `MediaPipe` `Ollama` `Gemma`
 
-[View Repository →](https://github.com/AshtamiBiju/Blink)
+[Explore Blink →](https://github.com/AshtamiBiju/Blink)
 
----
-
-### 02. TextMorph
+### ♡ TextMorph
 **AI-powered Text Transformation & Document Intelligence**
 
-An NLP-based application exploring different ways to understand, transform, and work with text.
+An NLP project exploring text transformation, semantic understanding, and document intelligence.
 
 - Text summarization and paraphrasing.
-- Semantic similarity comparison.
-- Meaning evaluation.
+- Semantic similarity analysis.
 - Document intelligence features.
-- Exploring document-based question answering and knowledge graphs.
+- Exploration of document question answering.
 
-**Tech:** Python · Transformers · T5 · BART · PEGASUS · Sentence Transformers
+`Python` `Transformers` `T5` `BART` `PEGASUS` `Sentence Transformers`
 
-[View Repository →](https://github.com/AshtamiBiju/Text_Morph)
+[Explore TextMorph →](https://github.com/AshtamiBiju/Text_Morph)
 
----
-
-### 03. GymGuard
+### ♡ GymGuard
 **Smart Gym Access & Monitoring System**
 
-A hardware-software project designed to explore smart access control and gym management.
+A hardware-software project exploring automated access control and smart gym management.
 
 - RFID-based access control.
-- Embedded hardware integration.
+- ESP32 hardware integration.
 - Automated access mechanisms.
 - Web-based monitoring interface.
 
-**Tech:** ESP32 · RFID · Flask · MySQL · React
+`ESP32` `RFID` `Flask` `MySQL` `React`
 
-[View Repository →](https://github.com/AshtamiBiju/GymGuard)
+[Explore GymGuard →](https://github.com/AshtamiBiju/GymGuard)
 
----
-
-### 04. Pro-Bot
+### ♡ Pro-Bot
 **Live Classroom AI Feedback System**
 
-An AI-assisted classroom feedback project focused on making classroom interactions more measurable and insightful.
+A collaborative project exploring AI-assisted classroom feedback and insights.
 
-[View Repository →](https://github.com/AshtamiBiju/Pro-Bot--Live-Classroom-AI-Feedback-System)
-
----
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-## `$ github --stats`
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AshtamiBiju&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Most Used Languages" />
-
-</div>
+[Explore Pro-Bot →](https://github.com/AshtamiBiju/Pro-Bot--Live-Classroom-AI-Feedback-System)
 
 ---
 
-<!-- ================= CONTRIBUTIONS ================= -->
-
-## `$ git log --activity`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AshtamiBiju/AshtamiBiju/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-<!-- ================= CURRENT FOCUS ================= -->
-
-## `$ cat current-focus.txt`
+## `04`  Currently exploring
 
 ```text
-[01] Strengthening C and C++ fundamentals
-[02] Practicing Data Structures and Algorithms
-[03] Learning Linux and low-level programming
-[04] Exploring embedded systems and microcontrollers
-[05] Building practical AI and computer vision projects
+  ┌─────────────────────────────────────────┐
+  │                                         │
+  │   [01]  C / C++ and low-level coding    │
+  │   [02]  Data Structures & Algorithms    │
+  │   [03]  Linux and computer architecture │
+  │   [04]  Embedded systems                │
+  │   [05]  Microcontrollers and robotics   │
+  │   [06]  AI and computer vision          │
+  │                                         │
+  │   STATUS: Learning in progress...       │
+  │                                         │
+  └─────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ================= FOOTER ================= -->
+## `05`  GitHub corner
 
 <div align="center">
 
-### "Stay curious. Build relentlessly. Understand deeply."
+<img src="https://github-stats-extended.vercel.app/api?username=AshtamiBiju&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AshtamiBiju&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Most used languages"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9D8,50:5B2A86,100:12002F&height=120&section=footer" width="100%" />
+</div>
+
+### Contribution garden 🌱
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AshtamiBiju/AshtamiBiju/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+        /\_/\
+       ( •.• )     Thanks for stopping by!
+        > ♡ <
+
+   keep learning · keep creating · keep exploring
+
+        01001000 01000001 01010000 01010000 01011001
+```
+
+*Made with curiosity, coffee, and an unreasonable number of tabs.*
 
 </div>
